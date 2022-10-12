@@ -33,6 +33,7 @@ aside {
 }
 
 @media screen and (min-width: 576px) {
+  /* Only the p tag that is anywhere inside the aside (the space means a general child selector) */
   aside p {
     color: white;
   }
