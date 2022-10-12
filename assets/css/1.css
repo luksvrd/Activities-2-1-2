@@ -10,6 +10,7 @@ header {
   text-align: center;
 }
 
+/* Use commas to use multiple selectors instead of writing the same rule numerous times */
 nav,
 aside,
 section,
