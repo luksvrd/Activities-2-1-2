@@ -9,3 +9,8 @@ header {
   padding: 20px;
   text-align: center;
 }
+
+nav {
+  background-color: rgb(209, 133, 44);
+  padding: 10px;
+}
