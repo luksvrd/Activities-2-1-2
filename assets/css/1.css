@@ -10,7 +10,24 @@ header {
   text-align: center;
 }
 
-nav {
-  background-color: rgb(209, 133, 44);
+nav,
+aside,
+section,
+footer {
   padding: 10px;
+}
+
+nav {
+  background-color: rgb(209 133 44);
+}
+
+aside {
+  background-color: olive;
+}
+
+.sample-img {
+  background-color: skyblue;
+  border: 1px solid black;
+  height: 200px;
+  padding: 20px;
 }
