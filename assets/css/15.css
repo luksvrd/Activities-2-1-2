@@ -1,0 +1,4 @@
+button:hover,
+button:focus {
+  background-color: #4caf50; /* Green */
+}

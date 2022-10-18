@@ -51,3 +51,14 @@ article li {
   color: #696969;
   text-decoration: none;
 }
+
+@media screen and (min-width: 1024px) {
+  .links {
+    display: none;
+  }
+
+  /* Sibling Selector - Pseudo Element */
+  .resources h2:hover ~ .links {
+    display: inline-block;
+  }
+}
